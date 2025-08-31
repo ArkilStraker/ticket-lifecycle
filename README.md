@@ -39,10 +39,22 @@ Ticket intake refers to the process by which new support requests (or "tickets")
 <img width="414" height="406" alt="image" src="https://github.com/user-attachments/assets/44987619-f2fd-4b68-b4fa-fbdc1a6c782a" /><img width="348" height="324" alt="image" src="https://github.com/user-attachments/assets/253017e7-ef18-466d-9ca2-6631214770ac" />
 <img width="863" height="482" alt="image" src="https://github.com/user-attachments/assets/2b8e616f-7cf6-472d-88b2-e053880f56d2" /><img width="580" height="434" alt="image" src="https://github.com/user-attachments/assets/646ab63b-3970-4142-8295-4de423768078" />
 
-
 </p>
 <p>
 In osTicket, assignment ensures tickets are directed to the right personnel, while communication tools (notes, replies, alerts) keep all Involved parties informed and engaged. Together, they form the backbone of a responsive and organized helpdesk operation.
+</p>
+<br />
+
+<p>
+  
+<img width="356" height="318" alt="image" src="https://github.com/user-attachments/assets/910b50f6-d37d-4dd8-98f5-e7f5bf0b4533" /><img width="883" height="268" alt="image" src="https://github.com/user-attachments/assets/f4e51fe3-9507-4288-aab0-23c080bb4d89" />
+<img width="329" height="362" alt="image" src="https://github.com/user-attachments/assets/07d6c7ac-898d-4856-9c05-53b92b5ea1d3" />
+
+
+</p>
+<p>
+“Working the Issue” in osTicket is the heart of the support process where agents actively investigate, communicate, and resolve user requests while adhering to service expectations. It’s where technical skill meets customer service.
+
 </p>
 <br />
 
