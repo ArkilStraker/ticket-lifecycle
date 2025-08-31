@@ -59,9 +59,10 @@ In osTicket, assignment ensures tickets are directed to the right personnel, whi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="629" height="220" alt="image" src="https://github.com/user-attachments/assets/e09ecb5f-8623-4054-879d-f868ff97423b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In osTicket, Resolution marks the successful handling of a support request. It includes documenting the solution, notifying the user, updating ticket status, and triggering reporting. A clear and well-communicated resolution builds trust and helps maintain service excellence.
 </p>
 <br />
