@@ -48,7 +48,7 @@ In osTicket, assignment ensures tickets are directed to the right personnel, whi
 <p>
   
 <img width="356" height="318" alt="image" src="https://github.com/user-attachments/assets/910b50f6-d37d-4dd8-98f5-e7f5bf0b4533" /><img width="883" height="268" alt="image" src="https://github.com/user-attachments/assets/f4e51fe3-9507-4288-aab0-23c080bb4d89" />
-<img width="329" height="362" alt="image" src="https://github.com/user-attachments/assets/07d6c7ac-898d-4856-9c05-53b92b5ea1d3" />
+
 
 
 </p>
@@ -59,7 +59,7 @@ In osTicket, assignment ensures tickets are directed to the right personnel, whi
 <br />
 
 <p>
-<img width="629" height="220" alt="image" src="https://github.com/user-attachments/assets/e09ecb5f-8623-4054-879d-f868ff97423b" />
+<img width="329" height="362" alt="image" src="https://github.com/user-attachments/assets/07d6c7ac-898d-4856-9c05-53b92b5ea1d3" /><img width="629" height="220" alt="image" src="https://github.com/user-attachments/assets/e09ecb5f-8623-4054-879d-f868ff97423b" />
 
 </p>
 <p>
