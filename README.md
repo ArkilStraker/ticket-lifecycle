@@ -35,10 +35,14 @@ Ticket intake refers to the process by which new support requests (or "tickets")
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="414" height="406" alt="image" src="https://github.com/user-attachments/assets/44987619-f2fd-4b68-b4fa-fbdc1a6c782a" /><img width="348" height="324" alt="image" src="https://github.com/user-attachments/assets/253017e7-ef18-466d-9ca2-6631214770ac" />
+<img width="863" height="482" alt="image" src="https://github.com/user-attachments/assets/2b8e616f-7cf6-472d-88b2-e053880f56d2" /><img width="580" height="434" alt="image" src="https://github.com/user-attachments/assets/646ab63b-3970-4142-8295-4de423768078" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In osTicket, assignment ensures tickets are directed to the right personnel, while communication tools (notes, replies, alerts) keep all Involved parties informed and engaged. Together, they form the backbone of a responsive and organized helpdesk operation.
 </p>
 <br />
 
